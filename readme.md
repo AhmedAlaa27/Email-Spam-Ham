@@ -29,10 +29,10 @@ This project focuses on building a machine learning model to classify emails as 
 
 The model performance was evaluated using accuracy scores, with the following results:
 
-- **Logistic Regression**: _score_
-- **Random Forest**: _score_
-- **KNN**: _score_
-- **XGBoost**: _score_
+- **Logistic Regression**: 0.94
+- **Random Forest**: 0.88
+- **KNN**: 0.91
+- **XGBoost**: 0.97
 
 ## Conclusion
 
